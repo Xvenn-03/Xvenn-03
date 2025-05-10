@@ -1,4 +1,4 @@
 ![Xvenn-03](github-header-image.png)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Xvenn-03 GitHub stats](https://github-readme-stats.vercel.app/api?username=Xvenn-03&hide=contribs,prs)
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/Xvenn-03/count.svg)
