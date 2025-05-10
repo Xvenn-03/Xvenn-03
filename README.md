@@ -17,6 +17,5 @@ Hi, I'm xvenn, I was 14 when I created this github account and I'm currently lea
 [![](https://visitcount.itsvg.in/api?id=Xvenn-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Xvenn-03 GitHub stats](https://github-readme-stats.vercel.app/api?username=Xvenn-03&show_icons=true&theme=shadow_green)
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/Xvenn-03/count.svg)
