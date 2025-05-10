@@ -1,6 +1,6 @@
 ## Hello World! I'm Xvenn 👋
 
-![Xvenn-03](img/github-header-image.png)
+![Xvenn-03](github-header-image.png)
 <!--
 **Xvenn-03/Xvenn-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
