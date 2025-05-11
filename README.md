@@ -1,7 +1,6 @@
 ![Xvenn-03](github-header-image.png)
 ### 💫 About Me:
-Hi, I'm xvenn, I was 14 when I created this github account and I'm currently learning the python programming language, even though I often get errors, I won't give up. 
-
+hello i'm Xvenn-03, when i made this github i was 14 years old and that's because i like python programming language, the first time i liked programming was when i was 13 and i wanted to develop it. remember to stay safe 
 
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinahikam@gmail.com) 
