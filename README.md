@@ -17,5 +17,16 @@ Hi, I'm xvenn, I was 14 when I created this github account and I'm currently lea
 [![](https://visitcount.itsvg.in/api?id=Xvenn-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/snake.svg" alt="Snake animation" />
+
+###
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/Xvenn-03/count.svg)
