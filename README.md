@@ -16,8 +16,6 @@ Hi, I'm xvenn, I was 14 when I created this github account and I'm currently lea
 ---
 [![](https://visitcount.itsvg.in/api?id=Xvenn-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
 <img src="https://raw.githubusercontent.com/Xvenn-03/Xvenn-03/output/snake.svg" alt="Snake animation" />
 
 ###
