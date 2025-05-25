@@ -3,7 +3,7 @@
 hello i'm Xvenn-03, when i made this github i was 14 years old and that's because i like python programming language, the first time i liked programming was when i was 13 and i wanted to develop it. remember to stay safe 
 
 ### 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinahikam@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.me/Xenntz) 
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
