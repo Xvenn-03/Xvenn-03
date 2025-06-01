@@ -1,6 +1,6 @@
 ![Xvenn-03](github-header-image.png)
 ### 💫 About Me:
-hello i'm Xvenn-03, when i made this github i was 14 years old and that's because i like python programming language, the first time i liked programming was when i was 13 and i wanted to develop it. remember to stay safe 
+Hello, I'm Xvenn-03 with the real name KEVIN ABIL H. In the future, I will upload the python script that I made on this github, and I also want to say that this github account was created when I was 13, so I'm sorry if there is a python script that fails, thank you for reading the bio, remember to stay careful.
 
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.me/Xenntz) 
