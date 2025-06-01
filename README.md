@@ -3,7 +3,7 @@
 Hello, I'm Xvenn-03 with the real name KEVIN ABIL H. In the future, I will upload the python script that I made on this github, and I also want to say that this github account was created when I was 13, so I'm sorry if there is a python script that fails, thank you for reading the bio, remember to stay careful.
 
 ### 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.me/Xenntz) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinahikam@gmail.com) 
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
