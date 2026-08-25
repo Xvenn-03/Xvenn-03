@@ -67,6 +67,6 @@ System:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4bill1st_)
 </div>
 
-[![GitHub Followers](https://img.shields.io/github/followers/xhinsuid?style=social)](https://github.com/xhinsuid?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/xhinsuid?style=social)](https://github.com/xhinsuid)
+[![GitHub Followers](https://img.shields.io/github/followers/KevinAbil?style=social)](https://github.com/KevinAbil?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/KevinAbil?style=social)](https://github.com/KevinAbil)
 ###
