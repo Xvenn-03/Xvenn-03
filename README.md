@@ -6,7 +6,7 @@
 ```python
 class Xhinsuid:
     def __init__(self):
-        self.name = "Xhinsu"
+        self.name = "KEVIN ABIL HIKAM"
         self.location = "East Java, Indonesia"
         self.status = "Student"
         self.interests = ["Cybersecurity", "GNU/Linux", "Python"]
