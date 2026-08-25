@@ -32,14 +32,14 @@ class Xhinsuid:
 ```yaml
 Development:
   Editor: 
-    mobile: ["Acode", "Mt manager"]
+    mobile: ["Acode", "VSCode"]
     terminal: ["Termux", "Linux Userland"]
   
 System:
-  device: "Samsung A14 4g, MSI"
-  processor: "Exynos 3830"
-  os: "Android 14"
-  environment: ["Kali Linux", "Debian"]
+  device: "MSI"
+  processor: "Intel Core i7-10750H"
+  os: "Windows 11"
+  environment: ["Kali Linux", "Debian", "ParrotOS"]
 ```
 
 <img src="https://raw.githubusercontent.com/xhinsuid/xhinsuid/output/snake.svg" alt="Snake animation" />
