@@ -21,7 +21,7 @@ class Xhinsuid:
 
 ### 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KevinAbil?cardType=github&theme=vue-dark&fontFamily=Roboto%20Slab&preferLogin=true&Background=00000000)](https://git.io/awesome-stats-card)<br/>
-[![KevinAbil's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KevinAbil)](https://github.com/pranesh-2005/github-readme-stats-fast&theme=gotham)
+![KevinAbil's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KevinAbil&theme=gotham&show_icons=true)
 ![GitHub Stats](https://streak-stats.demolab.com?user=KevinAbil&theme=vue-dark&fontFamily=Roboto%20Slab&hide_border=white&background=00000000)<br/>
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KevinAbil&layout=donut&theme=vue-dark&fontFamily=Roboto%20Slab&bg_color=00000000)](https://github.com/KevinAbil/github-readme-stats)<br/>
 </div>
