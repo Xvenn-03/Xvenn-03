@@ -17,13 +17,14 @@ class Xhinsuid:
         return ["School", "Game", "Learn", "Coding", "Repeat"]
 ```
 ---
+<div align='center'>
 
 ### 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KevinAbil?cardType=github&theme=vue-dark&fontFamily=Roboto%20Slab&preferLogin=true&Background=00000000)](https://git.io/awesome-stats-card)<br/>
 ![GitHub Stats](https://streak-stats.demolab.com?user=KevinAbil&theme=vue-dark&fontFamily=Roboto%20Slab&hide_border=white&background=00000000)<br/>
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KevinAbil&layout=donut&theme=vue-dark&fontFamily=Roboto%20Slab&bg_color=00000000)](https://github.com/KevinAbil/github-readme-stats)<br/>
 
-
+</div>
 ---
 </div>
 
