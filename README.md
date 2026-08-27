@@ -56,9 +56,9 @@ System:
 
 ### Development Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
 ![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 
 ## 🤝 Connect With Me
 
