@@ -32,14 +32,15 @@ class Xhinsuid:
 ```yaml
 Development:
   Editor: 
-    mobile: ["Acode", "VSCode"]
+    mobile: ["Acode", "NeoVim"]
+    desktop: ["VSCode", "NeoVim"]
     terminal: ["Termux", "Linux Userland"]
   
 System:
   device: "MSI"
   processor: "Intel Core i7-10750H"
   os: "Windows 11"
-  environment: ["Kali Linux", "Debian", "ParrotOS"]
+  environment: ["Debian", "ParrotOS"]
 ```
 
 <img src="https://raw.githubusercontent.com/xhinsuid/xhinsuid/output/snake.svg" alt="Snake animation" />
