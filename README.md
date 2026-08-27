@@ -9,8 +9,8 @@ class Xhinsuid:
         self.name = "KEVIN ABIL HIKAM"
         self.location = "East Java, Indonesia"
         self.status = "Student"
-        self.interests = ["Cybersecurity", "GNU/Linux", "Python"]
-        self.gaming = ["BLOODSTRIKE", "SAUSAGEMAN", "ROBLOX"]
+        self.interests = ["Cybersecurity", "GNU/Linux", "WEB"]
+        self.gaming = ["BLOODSTRIKE", "MINECRAFT", "ROBLOX"]
         self.life_motto = "never be afraid to move forward"
     
     def get_daily_routine(self):
